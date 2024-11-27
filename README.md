@@ -1,1 +1,1 @@
-<h2 align="center">DRAHAJ. CORP.</h2>
+<h2 align="center">DRAHAJ CORP.</h2>
