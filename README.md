@@ -7,7 +7,7 @@
 [![DevForum](https://img.shields.io/badge/roblox%20devforum-black?style=for-the-badge&logo=roblox&logoColor=white)](https://devforum.roblox.com/u/pythonplugin)
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pythonplugin)
 
-### development
+### languages
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
