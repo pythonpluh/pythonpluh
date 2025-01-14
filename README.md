@@ -43,17 +43,3 @@
 <p align="left">
   <code>pythonplugin@gmail.com</code>
 </p>
-
-### other
-
-<div align="left">
-  <a href="https://github.com/pythonplugin">
-    <img src="https://github-readme-stats.vercel.app/api?username=pythonplugin&show_icons=true&theme=dark&hide_border=true&bg_color=041722&title_color=6d7f8a&text_color=6d7f8a&icon_color=6d7f8a" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/pythonplugin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonplugin&layout=compact&theme=dark&hide_border=true&bg_color=041722&title_color=6d7f8a&text_color=6d7f8a" alt="Top Languages" />
-  </a>
-</div>
