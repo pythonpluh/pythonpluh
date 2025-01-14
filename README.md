@@ -1,8 +1,6 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=pythonplugin)
-
-</div>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=pythonplugin">
+</p>
 
 ### my socials
 
