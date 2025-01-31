@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=pythonplugin">
 </p>
 
-### my socials
+### my socials:
 
 [![DevForum](https://img.shields.io/badge/roblox%20devforum-black?style=for-the-badge&logo=roblox&logoColor=white)](https://devforum.roblox.com/u/pythonplugin)
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pythonplugin)
 
-### languages i know
+### languages i know:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### software i use
+### software i use:
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-### contacts
+### my contact info:
 
 <p align="left">
   <code>pythonplugin@gmail.com</code>
