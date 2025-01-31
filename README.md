@@ -7,7 +7,7 @@
 [![DevForum](https://img.shields.io/badge/roblox%20devforum-black?style=for-the-badge&logo=roblox&logoColor=white)](https://devforum.roblox.com/u/pythonplugin)
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pythonplugin)
 
-### languages
+### languages i know
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### tools
+### software i use
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
