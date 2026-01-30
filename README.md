@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://luau-lang.org/" target="_blank">
-    <img src="https://luau.org/assets/images/luau-88.png" alt="Luau" width="50" height="50"/>
+    <img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="Luau" width="50" height="50"/>
   </a>
   <a href="https://www.lua.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="50" height="50"/>
