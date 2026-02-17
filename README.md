@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=visualstudio&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=dotnet&logoColor=white)&nbsp;
 ![Svelte](https://img.shields.io/badge/Svelte-0a0a0a?style=flat-square&logo=svelte&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
