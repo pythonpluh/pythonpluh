@@ -14,7 +14,7 @@
 
 [![DevForum](https://img.shields.io/badge/DevForum-0a0a0a?style=flat-square&logo=roblox&logoColor=white&labelColor=0a0a0a)](https://devforum.roblox.com/u/pythonplugin)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/pythonpluh)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:pythonplugin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:python@loopwrk.dev)
 
 </div>
 
