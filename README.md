@@ -34,5 +34,6 @@
 ![Svelte](https://img.shields.io/badge/Svelte-0a0a0a?style=flat-square&logo=svelte&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![GDScript](https://img.shields.io/badge/GDScript-0a0a0a?style=flat-square&logo=godotengine&logoColor=white)&nbsp;
 
 </div>
