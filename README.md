@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
                  m    #                           ""#                    "          
  mmmm   m   m  mm#mm  # mm    mmm   m mm   mmmm     #    m   m   mmmm  mmm    m mm  
  #" "#  "m m"    #    #"  #  #" "#  #"  #  #" "#    #    #   #  #" "#    #    #"  # 
@@ -8,24 +8,18 @@
  ##m#"   "#      "mm  #   #  "#m#"  #   #  ##m#"    "mm  "mm"#  "#m"#  mm#mm  #   # 
  #       m"                                #                     m  #               
  "      ""                                 "                      ""                
-```
-
-<sub>fullstack developer @ loopwrk</sub>
+</pre>
 
 [![DevForum](https://img.shields.io/badge/DevForum-0a0a0a?style=flat-square&logo=roblox&logoColor=white&labelColor=0a0a0a)](https://devforum.roblox.com/u/pythonplugin)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:python@loopwrk.dev)
 
 </div>
 
----
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonpluh&bg_color=0a0a0a&color=444444&line=333333&point=666666&area=true&area_color=1a1a1a&hide_border=true&custom_title=contribution%20graph&title_color=555555" width="100%"/>
-
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-0a0a0a?style=flat-square&logo=lua&logoColor=white)&nbsp;
+<sub>stack</sub>
+
+![Luau](https://img.shields.io/badge/Luau-0a0a0a?style=flat-square&logo=luau&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)&nbsp;
@@ -34,5 +28,23 @@
 ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
 ![GDScript](https://img.shields.io/badge/GDScript-0a0a0a?style=flat-square&logo=godotengine&logoColor=white)&nbsp;
+
+<br>
+
+<sub>wat i do</sub>
+
+<pre>
+<a href="https://noctovo.com">noctovo</a>        qa · combat warriors
+<a href="https://www.boss-studio.org">boss-studio</a>    programmer          
+<a href="https://www.loopwrk.dev">loopwrk</a>        founder &amp; co-owner  
+<a href="https://github.com/limneco">limneco</a>        founder             
+</pre>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pythonpluh&hide_border=true&background=0a0a0a&stroke=1f1f1f&ring=333333&fire=777777&currStreakNum=cccccc&sideNums=999999&currStreakLabel=666666&sideLabels=555555&dates=444444">
+  <img alt="streak" src="https://streak-stats.demolab.com?user=pythonpluh&hide_border=true&background=ffffff&stroke=e5e5e5&ring=cccccc&fire=999999&currStreakNum=333333&sideNums=555555&currStreakLabel=888888&sideLabels=999999&dates=aaaaaa">
+</picture>
 
 </div>
