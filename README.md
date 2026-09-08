@@ -37,9 +37,9 @@
 <pre>
   <a href="https://www.roblox.com/communities/32826952/Unico/g">unico</a>          programmer   
   <a href="https://www.boss-studio.org">boss-studio</a>    full-time programmer    
-  <a href="https://noctovo.com">noctovo</a>        qa · combat warriors
-  <a href="https://www.loopwrk.dev">loopwrk</a>        founder &amp; co-owner  
   <a href="https://github.com/limneco">limneco</a>        founder             
+  <a href="https://www.loopwrk.dev">loopwrk</a>        founder &amp; co-owner  
+  <a href="https://noctovo.com">noctovo</a>        qa · combat warriors
 </pre>
 
 </td></tr></table>
